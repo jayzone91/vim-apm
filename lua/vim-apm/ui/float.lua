@@ -34,7 +34,7 @@ local function create_window_config()
         col = col,
         width = 40,
         height = 1,
-        border = "none",
+        border = "rounded",
         title = "",
         style = "minimal",
     }
