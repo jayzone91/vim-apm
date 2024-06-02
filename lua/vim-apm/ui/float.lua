@@ -30,7 +30,7 @@ local function create_window_config()
     return {
         relative = "editor",
         anchor = "NW",
-        row = 0,
+        row = 1,
         col = col,
         width = 40,
         height = 1,
